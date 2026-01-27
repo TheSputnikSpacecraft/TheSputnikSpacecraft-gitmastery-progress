@@ -248,5 +248,14 @@
       "No commits were made in the 'visitor-line' branch."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769502235.561621,
+    "completed_at": 1769502237.658937,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
   }
 ]
